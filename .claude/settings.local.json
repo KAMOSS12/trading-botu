@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd \"C:\\\\Users\\\\SAMET\\\\Desktop\\\\trading botu\" && python bot.py)"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\SAMET\\Desktop"
+    ]
+  }
+}
